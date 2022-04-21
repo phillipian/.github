@@ -1,12 +1,3 @@
-## Hi there 👋
+# The Phillipian
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Welcome to the lil part of the internet known as the Digital Section of the Phillipian. Here is a compendium of past code, SOTAs, websites, and fun microsites! Feel free to reach out (email us @ cwang23, dchang23, or djeong23 @ andover) if you'd like to be a part or learn more. :)
